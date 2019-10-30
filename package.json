@@ -1,6 +1,9 @@
 {
   "name": "game",
   "private": true,
+  "engines": {
+    "node": "10.15.1"
+    },
   "dependencies": {
     "@rails/webpacker": "^4.0.7",
     "stimulus": "^1.1.1",
